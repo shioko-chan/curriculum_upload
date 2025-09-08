@@ -1,0 +1,11 @@
+{
+  "setting": {
+    "urlCheck": true,
+    "es6": true,
+    "postcss": true,
+    "minified": true,
+    "newFeature": true
+  },
+  "appid": "cli_a5b890b159b3500b",
+  "projectname": "timetable"
+}

@@ -1,0 +1,8 @@
+<view class="align">
+  <view class="intro">RCS课表助手</view>
+  <view class="text">使用方法：打开教务服务平台（https://jw.xmu.edu.cn/），打开“我的课表app”，CTRL+S保存页面，然后点击下面按钮上传“我的课表app.html”文件</view>
+  <view class="text">这个应用只操作一次就好，操作多次会导致课表内容重复🐱🥺</view>
+  <view class="text">⚠下载时，请一定要选择"网页,全部"选项（如下图所示）</view>
+  <image src="/pages/resources/select.jpg" class="img"></image>
+  <image src="/pages/resources/upload.png" class="icon" bindtap="upload"></image>
+</view>

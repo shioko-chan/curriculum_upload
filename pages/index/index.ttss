@@ -1,0 +1,25 @@
+.intro {
+  margin: 30px;
+  text-align: center;
+  font-weight: bold;
+}
+.icon{
+  margin:10dvw;
+  height: 50px;
+  width: 50px;
+}
+.align{
+  display: flex;
+  align-items: center;
+  align-content: center;
+  flex-direction: column;
+}
+.text {
+  margin: 30px;
+  text-align: center;
+  font-size: 16px;
+}
+.img{
+    width: 324px;
+    height: 50px;
+}
