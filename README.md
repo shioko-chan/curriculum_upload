@@ -3,4 +3,4 @@
 
 代码逻辑在pages/index/index.js文件中
 只需要修改SEMESTER_FIRST_DATE为当前学期第一天的日期即可
-![alt text]({05354574-E618-4CE0-AEF9-DBDDFA6844C1}.png)
+![alt text](./img/code.png)
